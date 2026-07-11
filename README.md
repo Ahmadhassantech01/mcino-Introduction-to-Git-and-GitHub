@@ -10,3 +10,4 @@ r, annual rate of interest (%)
 Output
 simple interest = ptr/100
 _© 2022 XYZ, Inc._
+Note: This branch demonstrates a reverted change.
